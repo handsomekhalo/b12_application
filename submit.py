@@ -12,7 +12,7 @@ NAME = "Titus Monaheng"
 EMAIL = "titus.khalomonaheng@gmail.com"
 RESUME_LINK = "http://www.linkedin.com/in/khalo-monaheng-b6a821b0"
 REPOSITORY_LINK = "https://github.com/handsomekhalo/b12_application"
-ACTION_RUN_LINK = "https://github.com/handsomekhalo/b12_application/actions/runs/REPLACE_ME"
+ACTION_RUN_LINK= "https://github.com/handsomekhalo/b12_application/actions/runs/21129869987"
 # ==================
 
 payload = {
